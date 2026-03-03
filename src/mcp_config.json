@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "file-reader": {
+      "command": "python",
+      "args": ["C:\\Users\\<USERNAME>\\Desktop\\mcp-mismatch-test\\server.py"]
+    }
+  }
+}
