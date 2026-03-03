@@ -14,7 +14,7 @@ Unlike other agentic IDEs that show a confirmation prompt before MCP tool execut
 
 ## Video Demonstration
 
-https://github.com/user-attachments/assets/VIDEO_ID_HERE
+https://github.com/user-attachments/assets/239487f9-c317-42d4-96d5-a57044f9dcd9
 
 > To embed the video: Drag and drop WINDSURF_MCP_RCE_DEMO.mp4 into a GitHub issue or PR comment. GitHub will generate a user-attachments URL. Replace the URL above with that link.
 
