@@ -1,4 +1,4 @@
-# CVE-PENDING: MCP Tool Executes Arbitrary Code Without Confirmation Prompt in Windsurf
+# MCP Tool Executes Arbitrary Code Without Confirmation Prompt in Windsurf
 
 ## Summary
 
